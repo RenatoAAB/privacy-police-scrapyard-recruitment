@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**App Name:** Scrapyard Recruitment
-**Developer:** Big Lurker (Renato Antoniassi)
-**Contact:** raantoniassibattistin@gmail.com 
-**Last Updated:** 26/11/25
+- **App Name:** Scrapyard Recruitment
+- **Developer:** Big Lurker (Renato Antoniassi)
+- **Contact:** raantoniassibattistin@gmail.com 
+- **Last Updated:** 26/11/25
 
 ---
 
